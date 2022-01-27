@@ -99,6 +99,8 @@ This challenge helped me understand that I want to continue to learn & practice 
 - [Display Inline vs Inline-Block (Digital Ocean)](https://www.digitalocean.com/community/tutorials/css-display-inline-vs-inline-block) - Helped me realize that `display: inline` is not useful is most situations since it does not respect basic dimensions & spacing properties.
 - [Image Styling (W3Schools)](https://www.w3schools.com/css/css3_images.asp) - A reminder on the best way to style responsive images.
 - [CSS Variables (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - Syntax for CSS Variables.
+- [How to Write Meaningful Alt Text (Forum One)](https://www.forumone.com/ideas/a-content-editors-guide-to-writing-good-meaningful-alt-text/#:~:text=Not%20all%20images%20require%20alt,information%20important%20for%20comprehension%20missing%3F) - Makes a great point about when and when not to add alt text to an image element.
+- [Common Mistakes to Avoid with Alt Text (BOIA)](https://www.boia.org/blog/8-common-image-alt-text-mistakes-to-stop-making) - Mistakes to avoid when adding alt text.
 
 ## Author
 
